@@ -4,3 +4,5 @@ bannanpine
 dates
 strawberry
 lemon
+tomato
+potato
