@@ -6,3 +6,4 @@ strawberry
 lemon
 tomato
 potato
+rice
